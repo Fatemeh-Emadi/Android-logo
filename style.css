@@ -1,0 +1,136 @@
+.shakhak{
+    display:flex;
+    
+    width:10px;
+    height:30px;
+    
+  }
+  .shakhak1 , .shakhak2{
+    border-style:solid;
+    background:#a0d15c;
+     border-color:#a0d15c;
+    margin-left:70px;
+    position:relative;
+    left:565px;
+    top:80px;
+    border-radius:10px
+    
+  }
+  .shakhak1{
+    transform:rotate(-30deg);
+  }
+  .shakhak2{
+    transform:rotate(30deg);
+  }
+  
+  #head{
+    border-style:solid;
+    border-color:#a0d15c;
+    background:#a0d15c;
+    height:75px;
+    width:150px;
+    align-content: center;
+    margin-left:600px;
+    margin-top:70px;
+    border-top-left-radius:100px ;
+    border-top-right-radius:100px ;
+    
+  }
+  .eyes{
+    border-radius:10px;
+    width:10px;
+    height:10px;
+    position:relative;
+  }
+   #eye1{
+    border:none;
+    margin-left:95px;
+     background-color:white;
+    
+    
+    top:35px;
+  
+    
+  }
+  #eye2{
+    border:none;
+    margin-left:70px;
+    background-color:white;
+    margin-left:40px;
+    top:25px;
+    
+  }
+  #body1{
+    border-style:solid;
+    background:#a0d15c;
+     border-color:#a0d15c;
+    width:150px;
+    height:120px;
+    position:relative;
+    margin-left:600px;
+    margin-top:5px;
+    border-bottom-left-radius:30px ;
+    border-bottom-right-radius:30px ;
+  }
+  
+  .leg1{
+    border-style:solid;
+    width:25px;
+    height:40px;
+    top:0px;
+    position:relative;
+    margin-left:30px;
+     border-bottom-left-radius:30px ;
+    border-bottom-right-radius:30px ;
+    background:#a0d15c;
+     border-color:#a0d15c;
+     left: 667px;
+     
+  }
+  .leg2{
+      border-style:solid;
+    width:25px;
+    height:40px;
+    bottom: 46px;
+    position:relative;
+    
+     border-bottom-left-radius:30px ;
+    border-bottom-right-radius:30px ;
+    background:#a0d15c;
+     border-color:#a0d15c;
+     left: 630px;
+  }
+  #hand1{
+    border-style:solid;
+    width:25px;
+    height:85px;
+    border-radius:20px;
+    position:absolute;
+    right:564px;
+    bottom:338px;
+    background:#a0d15c;
+     border-color:#a0d15c;
+     transform-origin: 50% 15%;
+    
+     
+  }
+  #hand2{
+    border-style:solid;
+    width:25px;
+    height:85px;
+    position:absolute;
+    border-radius:20px;
+    left:570px;
+    bottom:338px;
+    background:#a0d15c;
+     border-color:#a0d15c;
+     transform-origin: 50% 15%;
+     
+  }
+  #txt{
+    font-family:"Android";
+    font-size:60px;
+    margin-left:540px;
+    margin-top:0px ;
+  }
+  
